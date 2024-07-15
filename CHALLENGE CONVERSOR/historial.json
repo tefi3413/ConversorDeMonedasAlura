@@ -1,0 +1,37 @@
+[
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "ARS",
+    "monedaDestino": "USD",
+    "resultado": 0.1085,
+    "fechaHora": "2024-07-14 22:59:55"
+  },
+  {
+    "cantidad": 500.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "ARS",
+    "resultado": 460875.0,
+    "fechaHora": "2024-07-14 23:03:38"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "ARS",
+    "monedaDestino": "USD",
+    "resultado": 0.1085,
+    "fechaHora": "2024-07-14 23:12:52"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "ARS",
+    "monedaDestino": "USD",
+    "resultado": 0.1085,
+    "fechaHora": "2024-07-14 23:14:51"
+  },
+  {
+    "cantidad": 100.0,
+    "monedaOrigen": "ARS",
+    "monedaDestino": "USD",
+    "resultado": 0.1085,
+    "fechaHora": "2024-07-14 23:34:49"
+  }
+]
